@@ -5,15 +5,15 @@
 ### Category Name 1 
 
 [Project 1 Title](Kanye West)
-<img src="kanye-west-37.jpg?raw=true"/>
+<img src="images/kanye-west-37.jpg?raw=true"/>
 
 ---
 [Project 2 Title](Fernando Valenzuela)
-<img src="fernando.jpg?raw=true"/>
+<img src="image/fernando.jpg?raw=true"/>
 
 ---
 [Project 3 Title](Liquify)
-<img src="liquid.jpg?raw=true"/>
+<img src="images/liquid.jpg?raw=true"/>
 
 ---
 
