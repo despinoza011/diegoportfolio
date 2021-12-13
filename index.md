@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Title](Fernando Valenzuela)
-<img src="image/fernando.jpg?raw=true"/>
+<img src="images/fernando.jpg?raw=true"/>
 
 ---
 [Project 3 Title](Liquify)
