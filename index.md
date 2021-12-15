@@ -2,28 +2,28 @@
 
 ---
 
-### Category Name 1 
+### My Creative Works
 
-[Project 1 Title](Kanye West)
+[Ripped Effect](Kanye West)
 <img src="images/kanye-west-37.jpg?raw=true"/>
 
 ---
-[Project 2 Title](Fernando Valenzuela)
+[Double Exposure](Fernando Valenzuela)
 <img src="images/fernando.png?raw=true"/>
 
 ---
-[Project 3 Title](Liquify)
+[Liquify](Liquify)
 <img src="images/liquid.jpg?raw=true"/>
+
+[Earth Day](Earth)
+<img src="images/earthbutterfly.jpg?raw=true"/>
+
+[Galaxy Cat](Cat)
+<img src="images/galaxycat.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
